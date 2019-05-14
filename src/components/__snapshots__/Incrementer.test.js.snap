@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`incrementer component renders incrementer component 1`] = `
+<div
+  className="incrementer"
+>
+  <div
+    className="number"
+  >
+    0
+  </div>
+  <button
+    onClick={[Function]}
+  >
+    UPDATE NUMBUHR
+  </button>
+</div>
+`;

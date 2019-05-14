@@ -1,0 +1,16 @@
+.incrementer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25vw;
+
+  .number {
+    color: lightcoral;
+    cursor: pointer;
+
+    &:hover {
+      color: blue;
+      transform: translateY(2px);
+    }
+  }
+}
