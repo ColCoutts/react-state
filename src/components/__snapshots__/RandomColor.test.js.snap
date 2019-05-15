@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RandomColor component renders on screen RandomColor 1`] = `
+<div
+  className="square"
+  style={
+    Object {
+      "background": "",
+      "height": "40em",
+      "width": "40em",
+    }
+  }
+/>
+`;
