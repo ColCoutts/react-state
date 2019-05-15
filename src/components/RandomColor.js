@@ -37,6 +37,11 @@ export default class RandomColor extends PureComponent {
       height: '40em'
     };
 
-    return <div className="square" style={styles}></div>;
+    return <div style={styles}></div>;
   }
 }
+
+// export default function RandomColor() {
+//   const colorHex = '#' + Math.floor(Math.random() * 16777215).toString(16);
+//   return colorHex;
+// }
