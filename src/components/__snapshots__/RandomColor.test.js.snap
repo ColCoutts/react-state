@@ -2,7 +2,6 @@
 
 exports[`RandomColor component renders on screen RandomColor 1`] = `
 <div
-  className="square"
   style={
     Object {
       "background": "",
