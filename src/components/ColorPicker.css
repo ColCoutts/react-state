@@ -1,5 +1,8 @@
 .ColorPicker {
-  height: 100vh;
+  button {
+    border: none;
+    cursor: pointer;
+  }
   
   .red {
     background-color: red;

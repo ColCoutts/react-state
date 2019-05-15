@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import styles from './ColorPicker.css';
+import styles from './ColorDisplay.css';
 
 function ColorDisplay({ color }) {
   return (

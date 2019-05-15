@@ -4,11 +4,11 @@ import styles from './ColorPicker.css';
 
 function ColorPicker({ selectColorHandler }) {
   return (
-    <div className={styles.ColorPicker}>
+    <section className={styles.ColorPicker}>
       <button className={styles.red} onClick={() => selectColorHandler('red')}>RED</button>
       <button className={styles.green} onClick={() => selectColorHandler('green')}>GREEN</button>
       <button className={styles.blue} onClick={() => selectColorHandler('blue')}>BLUE</button>
-    </div>
+    </section>
   );
 }
 
